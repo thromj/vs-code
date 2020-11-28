@@ -1,0 +1,4 @@
+(a) Die Variable res ist vom Typ float
+(b) Die Variable res ist vom Typ Int also einer Ganzzahl.
+(c ) Die Variable ist eine imaginäre Zahl
+(d) Die Variable ist von Typ float (Dezimalzahl) mit einem Int wert

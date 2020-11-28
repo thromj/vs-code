@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\jonat\\AppData\\Local\\Programs\\Python\\Python39-32\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "c:\\Users\\jonat\\.vscode\\extensions\\stefanwehr.write-your-python-program-0.7.2\\python\\src\\"
+    ],
+    "python.linting.enabled": false
+}
