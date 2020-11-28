@@ -1,5 +1,3 @@
-#test
-#warum zeigt es mir die nicht an?
 from fizzbuzz_lib import fizzbuzz
 Count = 0                                           #Zählervariable für Anzahl der durchgeführten Eingaben
 failcount = 0                                       #Zähler für falsche Eingaben
